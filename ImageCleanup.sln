@@ -11,6 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageCleaner", "ImageCleane
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A980FD9A-C9B9-4EA3-BDF3-BC59380B6FDF}"
 	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
 		Knowledge.txt = Knowledge.txt
 	EndProjectSection
 EndProject
