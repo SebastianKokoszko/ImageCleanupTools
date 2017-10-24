@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ImageDirectoryCleanup/bin/Debug
+/ImageDirectoryCleanup/obj/Debug
+/TextRecognitionWrapper/bin/Debug
+/TextRecognitionWrapper/obj/Debug
+/ImageCleaner/bin/Debug
+/ImageCleaner/obj/Debug
+/packages/Tesseract.3.0.2.0
+/TextRecognitionWrapper/x64
+/TextRecognitionWrapper/x86
