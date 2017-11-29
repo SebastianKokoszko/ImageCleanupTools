@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("ImageDirectoryCleanup")]
+[assembly: AssemblyTitle("Tools")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ImageDirectoryCleanup")]
+[assembly: AssemblyProduct("Tools")]
 [assembly: AssemblyCopyright("")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("7340dff6-db9f-4ec1-b92c-3c79cd5a98da")]
+[assembly: Guid("a88bb931-f291-4da2-8c1f-ea83a534720c")]
 
 // Version information for an assembly consists of the following four values:
 //
