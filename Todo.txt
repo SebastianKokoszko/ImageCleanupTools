@@ -1,0 +1,2 @@
+-create wrapper for Environment class and use it in EnvironmentInfoProvider
+-write tests for Trace, EnviromentInfoProvider, TextIsolator
