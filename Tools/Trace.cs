@@ -112,6 +112,15 @@
 		}
 
 		/// <summary>
+		/// Traces the debug message.
+		/// </summary>
+		/// <param name="message">The message.</param>
+		public void TraceDebug(string message)
+		{
+			this.DoTrace(TraceEventType.Verbose, message);
+		}
+
+		/// <summary>
 		/// Traces the critical error message.
 		/// </summary>
 		/// <param name="exception">The traced <see cref="Exception"/></param>
